@@ -1,11 +1,17 @@
-# WanBaoGuPiao
+# Toutiao Sports Expert
 
-WanBaoGuPiao is a platform for stock enthusiasts to learn, exchange and share, so that stock enthusiasts can quickly and easily understand the stock information in their daily life.
+Toutiao Sports Expert is a booking platform for sports arena courts. Our sports arena environment is clean and tidy, professional sports facilities. You can book the most satisfying sports arena in our app.
 
-Our app displays the latest financial news, real-time information, stock common sense, news, novice q&A, industry information and other information within the circle, real-time access to the stock market information, information at home and abroad, to provide you with the latest stock information, better services for stock enthusiasts.
+- Our app is dedicated to promoting the hottest and most professional sports arena in Shenzhen, so that people can efficiently and high-quality book to their favorite sports arena in their daily life.
 
-At the same time, you can put forward your own opinions on the news and information, you can share the news and information, you can collect the valuable information, thumb up you think good articles and comments.
+- Our app shows a variety of sports arenas, including baseball courts, tennis clubs, football stadiums, basketball arenas, popular arenas, etc. These full range of sports arenas can meet the user's selection and reservation.
 
-Using Marlboro stock allows you to fully grasp the various information of the stock market in your daily life.
+- Our app categorizes these stadiums in great detail, helping users quickly find the stadiums they want to book.
 
-If you have any questions, please contact us as follows :jxyhzmwl@163.com
+- Our app will introduce each stadium in detail, so that you can fully understand these stadiums, find the stadiums you like, so that you can make an appointment and place an order.
+
+- Our app also has the collection function of the sports arena. You can add your favorite sports arena to the list for your next browsing and ordering.
+
+Select popular sports arena for you to enjoy the fun of playing!
+
+If you have any questions, please contact us as follows :hgfm87a@163.com
