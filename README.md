@@ -1,17 +1,12 @@
-# Toutiao Sports Expert
+# ReJingJi
 
-Toutiao Sports Expert is a booking platform for sports arena courts. Our sports arena environment is clean and tidy, professional sports facilities. You can book the most satisfying sports arena in our app.
+ReJingJi is committed to promoting popular, comfortable and high-end esports entertainment venues in Chengdu, so that people can efficiently and high-quality book their favorite esports venues in their daily life.
 
-- Our app is dedicated to promoting the hottest and most professional sports arena in Shenzhen, so that people can efficiently and high-quality book to their favorite sports arena in their daily life.
+Our app is a booking platform for esports entertainment venues. The esports entertainment venues we launched are clean and comfortable, with high equipment configuration and a strong atmosphere of esports. We show various esports entertainment venues, including Internet cafes, Internet cafes, esports stadiums, esports apartments, esports hotels, mobile game esports and other entertainment venues. These full range of esports venues can meet the user's selection and reservation.
 
-- Our app shows a variety of sports arenas, including baseball courts, tennis clubs, football stadiums, basketball arenas, popular arenas, etc. These full range of sports arenas can meet the user's selection and reservation.
+Our app has a very detailed classification of these esports venues to help users quickly find the esports entertainment venues they want to book. Our APP also has the collection function of e-sports venues. You can put your favorite esports entertainment places can be collected in the collection list, convenient for you to place an order next time.
 
-- Our app categorizes these stadiums in great detail, helping users quickly find the stadiums they want to book.
+ReJingJi is your dream home of esports, no happiness, no esports!
 
-- Our app will introduce each stadium in detail, so that you can fully understand these stadiums, find the stadiums you like, so that you can make an appointment and place an order.
 
-- Our app also has the collection function of the sports arena. You can add your favorite sports arena to the list for your next browsing and ordering.
-
-Select popular sports arena for you to enjoy the fun of playing!
-
-If you have any questions, please contact us as follows :hgfm87a@163.com
+If you have any questions, please contact us as follows :rogl082@163.com
