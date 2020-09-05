@@ -1,4 +1,4 @@
-# ReJingJi
+# BoYouDianJing
 
 ReJingJi is committed to promoting popular, comfortable and high-end esports entertainment venues in Chengdu, so that people can efficiently and high-quality book their favorite esports venues in their daily life.
 
@@ -9,4 +9,4 @@ Our app has a very detailed classification of these esports venues to help users
 ReJingJi is your dream home of esports, no happiness, no esports!
 
 
-If you have any questions, please contact us as follows :rogl082@163.com
+If you have any questions, please contact us as follows :duyu04909bi@163.com
