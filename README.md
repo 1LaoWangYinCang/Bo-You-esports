@@ -1,17 +1,11 @@
-# Bo You esports
+# Digital News Learning Place
 
-Bo You esports is committed to promoting popular, comfortable and high-end esports places in Chengdu, so that people can effectively and high-quality book their favorite esports places in their daily life.
+Digital News Learning Place helps people quickly learn, share and exchange digital currency information in their daily life. There are the latest digital currency news information in it. You can put forward your own opinions on these hot news information, share news information, collect valuable news and praise articles you think are good.
 
-- Our app is a booking platform for e-sports entertainment venues. Our esports entertainment venues are clean and comfortable, with high equipment configuration and strong esports atmosphere, which is very suitable for esports fans to make reservations.
+You can book digital currency related lectures, learn the basic knowledge of digital currency, share popular information and exchange opinions, so that you can easily and easily understand the latest relevant information.
 
-- our app shows a variety of esports entertainment venues, including Internet cafes, Internet cafes, esports, esports apartments, esports hotels, mobile game esports and other entertainment venues. These full range of esports venues can meet the user's selection and reservation.
+You can also express your opinions on digital currency in the topic circle, exchange your ideas with others, and understand everyone's opinions. At the same time, you can obtain the market information of various digital currencies in real time, and easily understand the market changes.
 
-- Our app has classified these esports venues in great detail to help users quickly find the esports entertainment venues they want to book.
+Digital currency information learning and sharing exchange place.
 
-- Our APP also has the collection function of e-sports venues. You can put your favorite esports entertainment places can be collected in the collection list, convenient for you to place an order next time.
-
-- Our app also introduces each esports entertainment venue in detail, so that you can fully understand these venues, so that you can book an order.
-
-Bo You ESports - Booking professional esports venues to meet players.
-
-If you have any questions, please contact us as follows :duyu04909bi@163.com
+If you have any questions, please contact us as follows :talilaezyrk@hotmail.com
